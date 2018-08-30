@@ -1,0 +1,40 @@
+{
+    "user_state": {
+        "user_id": "ASD132412sFASsdsgb",
+        "user_name": "Mohammed Zia",
+        "affiliation": "University of Heidelberg",
+        "assigned_projects": [
+            {
+                "project_role": "admin",
+                "project_id": "EAFASD345353DFGSAS"
+            },
+            {
+                "project_role": "user",
+                "project_id": "GFDGFD231544564HFG"
+            },
+            {
+                "project_role": "author",
+                "project_id": "HGJDFG45242GDFG"
+            }
+        ],
+        "state": "active",
+        "last_login": 145473563727564
+    }
+    "project_state": {
+        "project_id": "PI43221NKHHDJHKFSDFK",
+        "project_name": "Castles in Germany",
+        "author": "Rizwan Khan",
+        "state": "active",
+        "last_edit": 12334265436465346,
+        "keywords": ["heidelberg historian", "DFG project"]
+    }
+    "map_state": {
+        "map_id": "MFASD23534512ASD32",
+        "map_name": "Castles in Heidelberg",
+        "author": "Cris Kemph",
+        "state": "active",
+        "last_edit": 753456451341352
+        "keywords": ["castle", "germany", "middle age"],
+        "drupal_node_ids": ["SFGDDA34135456WGFDS", "JGHH345624dSDG", "532rfdgSDFGeytrGdf"]
+    }
+}
